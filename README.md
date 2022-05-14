@@ -2,7 +2,7 @@
 - 👀 I’m interested in computers (lol), drawing and uhhh, cars!
 - 🌱 I’m currently learning a bit more about computers, drawing and tryna get good marks!
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me , I have a Tumblr account by the same name!
+- 📫 How to reach me - I have a Tumblr account by the same name!
 
 <!---
 nejosquare/nejosquare is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
